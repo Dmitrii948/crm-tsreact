@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/crm-tsreact/static/css/main.f9896857.css",
+    "main.js": "/crm-tsreact/static/js/main.2750ffc2.js",
+    "static/media/avatar-128.jpg": "/crm-tsreact/static/media/avatar-128.af6166f2778498a96f4e.jpg",
+    "index.html": "/crm-tsreact/index.html",
+    "static/media/cross.svg": "/crm-tsreact/static/media/cross.0b91fc7b2788823fe71dea4dbf7099a7.svg",
+    "main.f9896857.css.map": "/crm-tsreact/static/css/main.f9896857.css.map",
+    "main.2750ffc2.js.map": "/crm-tsreact/static/js/main.2750ffc2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9896857.css",
+    "static/js/main.2750ffc2.js"
+  ]
+}
